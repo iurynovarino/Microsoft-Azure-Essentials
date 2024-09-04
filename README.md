@@ -1,13 +1,7 @@
 # Microsoft-Azure-Essentials
-Repositório criado para o Bootcamp da DIO
+Bem-vindo ao repositório do **Bootcamp Microsoft Azure Essentials** da DIO! Aqui você encontrará todos os recursos e links que vou utilizar para concluir o bootcamp. A proposta desse BootCamp é a preparação para o exame **AZ-900**.
 
-# 🎓 Bootcamp AZ-900 - DIO 
-
-!(https://media.tenor.co/images/8c426e7d09af00fd53b3cb01fbea8165/raw)
-
-## 📁 Repositório AZ-900
-
-Bem-vindo ao repositório do **Bootcamp AZ-900** da DIO! Aqui você encontrará todos os recursos e links que vou utilizar para concluir o bootcamp.
+![Fonte: https://media.tenor.co/](https://c.tenor.com/hPN0rA8xC5wAAAAM/work-homework.gif)
 
 ## 🗂️ O Que Você Encontrará Aqui
 
