@@ -23,7 +23,7 @@ Veja os projetos e desafios que completei durante o bootcamp:
 
 - **Desafio 1**: [Descrição do projeto e link para o código](https://github.com/iurynovarino/Microsoft-Azure-Essentials/blob/main/Desafio%2301%20-%20Cria%C3%A7%C3%A3o-de-VM-em-Azure.md)
 - **Desafio 2**: [Descrição do desafio e link para o código](https://github.com/iurynovarino/Microsoft-Azure-Essentials/blob/main/Desafio%2302%20-%20Inst%C3%A2ncia%20de%20Banco%20de%20Dados.md)
-
+- **Desafio 3**: [Descrição do desafio e link para o código](https://github.com/iurynovarino/Microsoft-Azure-Essentials/blob/main/Desafio%2303%20-%20Construindo-Arquiteturas_no_Azure.md)
 ## 🔗 Azure
 
 - [Documentação do Azure](https://docs.microsoft.com/azure/)
