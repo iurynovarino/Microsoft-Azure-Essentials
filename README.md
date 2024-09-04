@@ -21,7 +21,7 @@ Aqui você encontrará uma lista de recursos úteis para se preparar para o exam
 
 Veja os projetos e desafios que completei durante o bootcamp:
 
-- **Desafio 1**: [Descrição do projeto e link para o código]()
+- **Desafio 1**: [Descrição do projeto e link para o código](https://github.com/iurynovarino/Microsoft-Azure-Essentials/blob/main/Desafio%2301%20-%20Cria%C3%A7%C3%A3o-de-VM-em-Azure.md)
 - **Desafio 2**: [Descrição do desafio e link para o código]()
 
 ## 🔗 Azure
