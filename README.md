@@ -24,6 +24,13 @@ Veja os projetos e desafios que completei durante o bootcamp:
 - **Desafio 1**: [Descrição do projeto e link para o código](https://github.com/iurynovarino/Microsoft-Azure-Essentials/blob/main/Desafio%2301%20-%20Cria%C3%A7%C3%A3o-de-VM-em-Azure.md)
 - **Desafio 2**: [Descrição do desafio e link para o código](https://github.com/iurynovarino/Microsoft-Azure-Essentials/blob/main/Desafio%2302%20-%20Inst%C3%A2ncia%20de%20Banco%20de%20Dados.md)
 - **Desafio 3**: [Descrição do desafio e link para o código](https://github.com/iurynovarino/Microsoft-Azure-Essentials/blob/main/Desafio%2303%20-%20Construindo-Arquiteturas_no_Azure.md)
+- **Desafio 4**: [Descrição do desafio e link para o código](https://github.com/iurynovarino/Microsoft-Azure-Essentials/blob/main/Desafio%2304%20-%20Configurando-Recursos.md)
+- **Desafio 5**: [Descrição do desafio e link para o código](https://github.com/iurynovarino/Microsoft-Azure-Essentials/blob/main/Desafio%2305%20-%20Dominando-Armazenamento-Azure.md)
+- **Desafio 6**: [Descrição do desafio e link para o código](https://github.com/iurynovarino/Microsoft-Azure-Essentials/blob/main/Desafio%2306%20-%20Identidade-Acesso-Seguran%C3%A7a.md)
+- **Desafio 7**: [Descrição do desafio e link para o código](https://github.com/iurynovarino/Microsoft-Azure-Essentials/blob/main/Desafio%2307%20-%20Otimizando-Custos-Azure.md)
+- **Desafio 8**: [Descrição do desafio e link para o código](https://github.com/iurynovarino/Microsoft-Azure-Essentials/blob/main/Desafio%2308%20-%20Gerenciando-Pol%C3%ADticas-Acesso-Azure.md)
+- **Desafio 9**: [Descrição do desafio e link para o código](https://github.com/iurynovarino/Microsoft-Azure-Essentials/blob/main/Desafio%2309%20-%20Ferramentas-De-Implanta%C3%A7%C3%A3o.md)
+- **Desafio 10**: [Descrição do desafio e link para o código](https://github.com/iurynovarino/Microsoft-Azure-Essentials/blob/main/Desafio%2310%20-%20Monitoramento-Inteligente.md)
 ## 🔗 Azure
 
 - [Documentação do Azure](https://docs.microsoft.com/azure/)
