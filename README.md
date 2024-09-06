@@ -35,3 +35,6 @@ Veja os projetos e desafios que completei durante o bootcamp:
 
 - [Documentação do Azure](https://docs.microsoft.com/azure/)
 
+<p align="center">
+<img width="400" src="https://i1.wp.com/static.wikia.nocookie.net/00b7ad48-7b24-4865-8a9c-0b3c6a1a9e75">
+</p>
